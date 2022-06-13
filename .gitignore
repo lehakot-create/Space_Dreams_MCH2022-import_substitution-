@@ -9,3 +9,4 @@ prj/parser/data.json
 prj/backend/migrations
 /Отбор данных.txt
 /Техническое_задание_Задача_03_Сервис_по_сбору_и_анализу_информации.pdf
+parser/app2.py
